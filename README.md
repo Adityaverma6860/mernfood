@@ -1,5 +1,4 @@
-
-**:MERN Stack Food Delivery Application**
+**MERN Stack Food Delivery Application**
 
 The MERN Stack Food Delivery Application is a comprehensive platform designed to offer seamless online food ordering and delivery experiences. Built using MongoDB, Express.js, React.js, and Node.js, the application supports a user-friendly interface for customers, efficient order management for restaurants, and real-time delivery tracking.
 
