@@ -1,21 +1,28 @@
 
-Description:
+**:MERN Stack Food Delivery Application**
+
 The MERN Stack Food Delivery Application is a comprehensive platform designed to offer seamless online food ordering and delivery experiences. Built using MongoDB, Express.js, React.js, and Node.js, the application supports a user-friendly interface for customers, efficient order management for restaurants, and real-time delivery tracking.
-  Pakages
+
+**  Pakages**
+
+ ** Frontend:**
+ 
+  npx create-react-app .
   
- in Frontend:
+  npm i react-router-dom
  
-  a.npx create-react-app .,
- b.npm i react-router-dom
+ **Backend **:
  
- in Backend :
+ npm install express 
  
-a. npm install express ,
- b.npm install mongoose,
-  c.npm i dotenv,
-  d.npm install bcryptjs jsonwebtoken
+ npm install mongoose
+ 
+  npm i dotenv
   
-Features
+  npm install bcryptjs jsonwebtoken
+  
+  
+**Features**
 
 1. User Authentication and Profile Management
 User Registration/Login:
@@ -79,15 +86,21 @@ Coupons and Discounts:
 Integration of promo codes for discounts.
 Multi-Language Support:
 Localization to support multiple languages.
-Technologies Used
-Frontend: React.js
+
+**Technologies Used**
+
+**Frontend: React.js**
+
 React Router for navigation.
-Redux for state management.
 Bootstrap and CSS for responsive design.
-Backend: Node.js and Express.js
+
+**Backend: Node.js and Express.js**
+
 RESTful APIs for managing users, orders, and restaurants.
-Secure authentication using JWT.
-Database: MongoDB
+Secure authentication using dotenv.
+
+**Database: MongoDB**
+
 Stores user profiles, restaurant data, menus, and order histories.
 Additional Integrations
 Stripe/PayPal API for payments.
